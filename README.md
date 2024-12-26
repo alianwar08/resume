@@ -1,17 +1,18 @@
-# Resume
 
-ALI ANWAR
-Dubai, United Arab Emirates | github.com/alianwar08
+**ALI ANWAR**
+**Dubai, United Arab Emirates** 
 
-Professional Summary
+**Professional Summary**
 •	Certified as a solution integration architect expert and accomplished computer programmer, highly skilled software development professional with over 15 years of experience in designing and developing comprehensive integration solutions in a variety of industries. With expertise in developing software architecture suited for rapid deployment across multiple projects to reduce development times and costs. Adept at constructing frameworks and guidelines to expedite and enhance application engineering. Have proven experience implementing microservice design approaches and managing highly secure n-Tier Web, Desktop, SOA, multi-threaded, distributed, and business process workflow-based systems.
 •	In my recent role, I have developed a Proof of Concept (POC) trading application. This involved integrating with Interactive Brokers (IBKR) for order placement and Polygon and Alpha Vantage for trading data analysis and pattern identification. Leveraging historic data analysis, we identified patterns and tested them across different datasets. Remarkably, our strategies yielded consistent profits of 2 to 3 percent per month.
 •	An innovative and dynamic problem solver, developed robust and comprehensive software solutions in the internet banking/core banking, FinTech, financial leasing, healthcare, and government industries, utilizing domain-driven design (DDD) to model and understand the specific domain of the problem being solved - With dynamic decisions workflow and rule engine from ground up, enabling IT developers and business analysts to incorporate rules into any application to evaluate data, enforce policy, and trigger actions.
 •	As a Microsoft Certified Azure Solutions Architect Expert, OutSystems Architect – Low code platform, and ITIL V4 professional, I am proficient in Object-Oriented Programming, .NET Framework, ASP.NET, MVC, MVVM, .Net Core, WCF, WPF, and a host of other programming languages, frameworks, and technologies. With a talent for multi-tasking, organizing, and prioritizing work, I am passionate about using my expertise to create optimal IT solutions for businesses and organizations.
-Education
+
+**Education**
 Bachelor of Science: Computer Science 	 Aug 2007 
 Punjab University 	 Lahore, Pakistan 
-Certifications
+
+**Certifications**
 •	Microsoft Certified: Azure Solutions Architect Expert
 •	Microsoft Certified: Azure Administrator Associate
 •	Microsoft Certified: Azure Artificial Intelligence
@@ -22,7 +23,8 @@ Certifications
 •	Professional Scrum Product Owner (PSPO I)
 •	Professional Scrum Master (PSM I)
 •	ITIL V4 Foundation
-Skills
+
+**Skills**
 •	Object-Oriented Programming
 •	Algorithm Development
 •	Software architecture design (monolithic, microservices, SOA)
@@ -38,13 +40,15 @@ Skills
 •	ITIL/TOGAF/Agile Methodology/Waterfall Model/SOA/SAAS
 •	Troubleshooting and root cause analysis
 •	Strong problem-solving & analytical skills.
-Architecture Exposure
+
+**Architecture Exposure**
 •	Software Architecture Patterns: CQRS, Event Driven Architecture, Cloud Architecture Patterns, Reactive Design Patterns, Presentation Pattern - (MVC, MVP, MVVM), DDD
 •	Software Architecture Styles: SOA, Microservice, Serverless, Layered, Client/Server, Monolith, JAM Stack, Low code hybrid
 •	Architecture Documentation: C4, 4+1 views, Architecture Views and View Points, SEI Software Documentation Approach
 •	Architecture Analysis: ADD(Attribute driven approach), ATAM (Architecture trade off analysis method)
 
-Work History
+**Work History**
+
 Software Consultant	 Feb 2023
 TranCore LLC 	 Dubai, United Arab Emirates 
 •	Design and implemented cutting-edge solutions, leveraging C#, .NET Core, and microservices architecture.
@@ -74,6 +78,7 @@ Emaratech 	 Dubai, United Arab Emirates
 •	Developed, maintained & customized front-end UI/UX components using HTML5, CSS, Media Queries and JavaScript
 •	Architected & Managed third-party API integrations (REST, JSON) development and UAT activates
 •	Worked closely with other business analysts, development teams and infrastructure specialists to deliver high availability solutions for mission-critical applications.
+
 Technical System Analyst 	 Jun 2019 - Jan 2021 
 The Entertainer LLC 	 Dubai, United Arab Emirates 
 •	Spearheaded the design and implementation of loyalty program integrations for a diverse range of clients, resulting in increase in customer retention rates.
@@ -83,6 +88,7 @@ The Entertainer LLC 	 Dubai, United Arab Emirates
 •	Worked closely with clients to understand their unique loyalty program needs and provide expert guidance on best practices and industry trends.
 •	Introduced methodologies and best practices to software development division to enhance product definition and application customization.
 •	Performed regression and system-level testing to verify software quality, applications and functions prior to release.
+
 Software Development Lead & Architect	 Aug 2018 - Jun 2019 
 Unity Infotech LLC 	 Dubai, United Arab Emirates 
 •	Define the integration strategy to seamlessly connect the internet banking platform with the core banking systems, ensuring real-time data synchronization.
@@ -94,6 +100,7 @@ Unity Infotech LLC 	 Dubai, United Arab Emirates
 •	Ensured that team meets overall development goals in accordance with product development plan or market requirements and milestones are met.
 •	Implemented latest web technologies including ASP.NET MVC, C#, CSS, HTML, SQL Server, Entity Framework Code First and Asynchronous Programming.
 •	Knowledge of Banking and Financial domain.
+
 Principle Software Engineer 	 Sep 2012 - Mar 2018 
 Visual Sparks Technologies Pvt Ltd 	 Lahore, Pakistan 
 •	Led IT product and/or process subject matter expertise necessary to support design, development and execution of IT Solutions (e.g. Service management, Service delivery, IT architecture, Implementation Coordination, Release Coordination)
@@ -108,6 +115,7 @@ Visual Sparks Technologies Pvt Ltd 	 Lahore, Pakistan
 •	Produced Technical Specification, User Guides and Training material.
 •	Analyzed Design Documents and Unit Test Plans.
 •	Technology Stack: ASP.NET , C#, WCF, WPF, CSS, HTML, SQL Server, Entity Framework and Asynchronous Programming.
+
 Senior Software Engineer 	 Apr 2008 - Sep 2012 
 Netsol Technologies Pvt Ltd 	 Lahore, Pakistan 
 •	Managed cross-functional software engineers team to analyze requirements, design and develop different modules in Credit Application Processing (a module of enterprise financial suite), manage tasks allocation and conducting domain and technical training for juniors.
@@ -133,8 +141,8 @@ This GitHub project showcases a monolithic eCommerce application developed using
 Link: https://github.com/alianwar08/eStore-Monolithic-Domain-Driven-Design
 
 
-Certifications & Trainings (Links)
-Certifications
+**Certifications & Trainings (Links)**
+**Certifications**
 •	Microsoft Certified: Azure Solutions Architect Expert https://cutt.ly/825OmSj
 •	TOGAF® 9 Enterprise Architect Foundation Certified https://cutt.ly/h17vaBs
 •	Microsoft Certified: Azure Artificial Intelligence https://cutt.ly/q3QKIix
@@ -147,11 +155,10 @@ Certifications
 •	OutSystems Associate Reactive Developer https://cutt.ly/GUSFneo
 
 
-Trainings
+**Trainings**
 •	C# & .NET: Programming https://cutt.ly/ZUSFldT
 •	Software Architecture Foundations https://cutt.ly/9USFzuP
 •	Microservices Foundations https://cutt.ly/fUSGJtq
 •	Python Essential Training https://cutt.ly/zUSFz8F
 •	Advanced SQL for Data Scientists https://cutt.ly/pUSFHmI
 •	Azure Administration Essential Training https://cutt.ly/xDeGIw7
-
